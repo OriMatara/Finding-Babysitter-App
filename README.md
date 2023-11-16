@@ -12,7 +12,6 @@ The Babysitter App is an Android application developed using Java and Firebase t
 - **Firebase Realtime Database:** Stores and retrieves user profiles and babysitter data.
 - **Babysitter List:** Displays a list of available babysitters with relevant details.
 - **Search and Filter:** Enables users to search and filter babysitters based on preferences.
-- **Messaging System:** Facilitates communication between parents and babysitters through an in-app messaging system.
 
 ## Installation
 
