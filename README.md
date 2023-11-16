@@ -1,4 +1,4 @@
-# Finding Babysitter App
+# Babysitter Finder App
 
 ## Overview
 
