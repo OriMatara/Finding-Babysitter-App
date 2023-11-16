@@ -9,7 +9,7 @@ The Babysitter App is an Android application developed using Java and Firebase t
 - **User Authentication:** Secure user registration and login system using Firebase Authentication.
 - **User Verification:** Mandatory profile verification process, including selfie, user ID, and Facebook link.
 - **Location Services:** Utilizes Android Location API to determine the user's location for proximity-based babysitter suggestions.
-- **Firebase Realtime Database:** Stores and retrieves user profiles, babysitter data, and user reviews.
+- **Firebase Realtime Database:** Stores and retrieves user profiles and babysitter data.
 - **Babysitter List:** Displays a list of available babysitters with relevant details.
 - **Search and Filter:** Enables users to search and filter babysitters based on preferences.
 - **Rating and Review System:** Allows users to rate and review babysitters, promoting transparency and trust.
