@@ -41,8 +41,7 @@ The Babysitter App is an Android application developed using Java and Firebase t
    - Use search and filter options to find suitable babysitters.
 
 3. **Booking a Babysitter:**
-   - Connect with babysitters through the in-app messaging system.
-   - Rate and review babysitters after the service is complete.
+   - Connect with babysitters through the contact information.
 
 ## Contributing
 
