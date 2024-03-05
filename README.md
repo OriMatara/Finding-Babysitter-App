@@ -22,7 +22,7 @@ The Babysitter App is an Android application developed using Java and Firebase t
 ## pictures
 <div>
   <img src="https://github.com/OriMatara/Babysitter-Finder-App/blob/3154fc787a9696e2e099226429191a71c2c44a1c/pictures/1sign%20in.png" alt="sign in" width="200"/>
-  <img src="https://github.com/OriMatara/Babysitter-Finder-App/blob/035d07a3cc83f0af1abbaa8f35c4cff6279c7978/pictures/2sign%20up.png" alt="sign up" width="200"/>
+  <img src="https://github.com/OriMatara/Babysitter-Finder-App/blob/035d07a3cc83f0af1abbaa8f35c4cff6279c7978/pictures/2sign%20up.png" alt="sign up" width="250"/>
 </div>
 
 
