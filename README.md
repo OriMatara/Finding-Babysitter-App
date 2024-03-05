@@ -20,7 +20,10 @@ The Babysitter App is an Android application developed using Java and Firebase t
 - **Search and Filter:** Enables users to search and filter babysitters based on preferences.
 
 ## pictures
-![sign in](https://github.com/OriMatara/Babysitter-Finder-App/blob/3154fc787a9696e2e099226429191a71c2c44a1c/pictures/1sign%20in.png) ![sign up]([relative/path/to/image.jpg](https://github.com/OriMatara/Babysitter-Finder-App/blob/035d07a3cc83f0af1abbaa8f35c4cff6279c7978/pictures/2sign%20up.png))
+
+
+
+![sign in](https://github.com/OriMatara/Babysitter-Finder-App/blob/3154fc787a9696e2e099226429191a71c2c44a1c/pictures/1sign%20in.png) ![sign up](https://github.com/OriMatara/Babysitter-Finder-App/blob/035d07a3cc83f0af1abbaa8f35c4cff6279c7978/pictures/2sign%20up.png)
 
 
 ## Installation
